@@ -12,3 +12,5 @@ Run the file vqgan_gen_car.py , and launch only the function ```transtrainP(mode
 # 3. Inference
 
 Run the file vqgan_gen_car.py , and launch only the function ```image_generation_labelP(model, image_test, image_pos)```.
+
+The other training function don't run well, it's some shit when I didn' t master the subject.
